@@ -1,4 +1,4 @@
-Dia 01
+Day 1
 
 ## Statistics
 
